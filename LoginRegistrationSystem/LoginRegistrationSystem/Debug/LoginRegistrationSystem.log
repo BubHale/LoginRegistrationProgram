@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\wizar\source\repos\LoginRegistrationSystem\LoginRegistrationSystem\Source.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\LoginRegistrationSystem\LoginRegistrationSystem\Source.cpp(47): warning C4715: 'PassWord': not all control paths return a value
+  LoginRegistrationSystem.vcxproj -> C:\Users\wizar\source\repos\LoginRegistrationSystem\Debug\LoginRegistrationSystem.exe
